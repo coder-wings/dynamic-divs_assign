@@ -1,0 +1,11 @@
+.inp-container{
+    text-align: center;
+    height: 100px;
+    width: 500px;
+    background-color: hotpink;
+    margin: 0px auto;
+    border: 5px solid cadetblue;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px 2px black;
+    padding-top: 32px;
+}
