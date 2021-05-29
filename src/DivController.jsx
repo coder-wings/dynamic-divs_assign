@@ -14,8 +14,8 @@ export default class DivController extends Component {
     
     handleInputValue(){
         this.setState({numberOfDivs:this.numInput.current.value});
-        console.log("Button Clicked");
-        console.log(this.numInput.current.value);
+       // console.log("Button Clicked");
+       // console.log(this.numInput.current.value);
         this.numInput.current.value="";
         }
 
